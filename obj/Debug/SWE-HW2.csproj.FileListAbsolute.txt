@@ -1,0 +1,11 @@
+C:\Users\ghade\source\repos\SWE-HW2\SWE-HW2\bin\Debug\SWE-HW2.exe.config
+C:\Users\ghade\source\repos\SWE-HW2\SWE-HW2\bin\Debug\SWE-HW2.exe
+C:\Users\ghade\source\repos\SWE-HW2\SWE-HW2\bin\Debug\SWE-HW2.pdb
+C:\Users\ghade\source\repos\SWE-HW2\SWE-HW2\obj\Debug\SWE-HW2.csproj.AssemblyReference.cache
+C:\Users\ghade\source\repos\SWE-HW2\SWE-HW2\obj\Debug\SWE_HW2.Form1.resources
+C:\Users\ghade\source\repos\SWE-HW2\SWE-HW2\obj\Debug\SWE_HW2.Properties.Resources.resources
+C:\Users\ghade\source\repos\SWE-HW2\SWE-HW2\obj\Debug\SWE-HW2.csproj.GenerateResource.cache
+C:\Users\ghade\source\repos\SWE-HW2\SWE-HW2\obj\Debug\SWE-HW2.csproj.CoreCompileInputs.cache
+C:\Users\ghade\source\repos\SWE-HW2\SWE-HW2\obj\Debug\SWE-HW2.exe
+C:\Users\ghade\source\repos\SWE-HW2\SWE-HW2\obj\Debug\SWE-HW2.pdb
+C:\Users\ghade\source\repos\SWE-HW2\SWE-HW2\obj\Debug\SWE-HW2.exe.config
